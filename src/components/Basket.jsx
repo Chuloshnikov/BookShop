@@ -16,7 +16,7 @@ const {
        open={cartOpen}
        onClose={closeCart}
        >
-        <List sx={{width: '400px'}}>
+        <List sx={{width: '250px'}}>
             <ListItem>
                 <ListItemIcon>
                     <ShoppingBasket/>
